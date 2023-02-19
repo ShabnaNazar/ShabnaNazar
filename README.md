@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShabnaNazar
-- 👀 I’m interested in AI, ML and EDI B2B
+- 👀 I’m interested in AI, ML and MLOPs
 - 💞️ I’m looking to collaborate on AI, ML and AI Ops
 - 📫 You can reach me at shabnanazar@gmail.com
 
